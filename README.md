@@ -3,7 +3,7 @@
 **MyBestYoutube** est une application Android qui vous permettra de gérer une liste personelle de vos meilleures videos trouvées sur Youtube
 
 # Fonctionnalités
-- Ajouter la liste des videos avec leur Titre , Description , Url et catégorie de la vide 
+- Ajouter  des videos avec leur Titre , Description , Url et catégorie de la video
 - Visualiser la liste de vos videos 
 - Modifier et Supprimer la video 
 - Lire les videos dans l'application Youtube 
